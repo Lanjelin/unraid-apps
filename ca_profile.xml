@@ -3,4 +3,6 @@
   <Profile>Unraid applications and plugins maintained by Lanjelin. Includes unraid-icons, a shared icon library for VMs and Docker containers. For application support, use the issue tracker linked in each listing; for catalog metadata issues, use this repository's issue tracker.</Profile>
   <WebPage>https://github.com/Lanjelin/unraid-apps</WebPage>
   <Forum>https://github.com/Lanjelin/unraid-apps/issues</Forum>
+  <DonateLink>https://github.com/sponsors/Lanjelin</DonateLink>
+  <DonateText>Sponsor Lanjelin on GitHub</DonateText>
 </CommunityApplications>
