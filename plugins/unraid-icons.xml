@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Name>unraid-icons</Name>
+  <PluginURL>https://raw.githubusercontent.com/Lanjelin/unraid-icons/main/dist/unraid-icons.plg</PluginURL>
+  <Support>https://github.com/Lanjelin/unraid-icons/issues</Support>
+  <Project>https://github.com/Lanjelin/unraid-icons</Project>
+  <Icon>https://raw.githubusercontent.com/Lanjelin/unraid-icons/main/source/images/unraid-icons.png</Icon>
+  <Overview>A shared icon library for Unraid VMs and Docker containers. Browse application logos from selfh.st and Dashboard Icons, choose symbols from Iconify, or import a custom image URL. Download icons once and select them from the VM and Docker editors. Optional integrations support Compose Manager Plus and FolderView3. Manage downloaded icons under Settings → Icons. Downloaded icons and preferences are retained across updates, reboots, and plugin removal.</Overview>
+  <Category>Tools:Utilities</Category>
+  <ExtraSearchTerms>icons logos vm docker iconify selfhst folderview compose</ExtraSearchTerms>
+  <License>https://raw.githubusercontent.com/Lanjelin/unraid-icons/main/LICENSE</License>
+  <ReadMe>https://github.com/Lanjelin/unraid-icons#readme</ReadMe>
+</Plugin>
